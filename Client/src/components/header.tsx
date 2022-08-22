@@ -5,7 +5,7 @@ const headerComponent:React.FC = () => {
   return (
     <header id="headerBar">
       <div className="content">
-        <img src={img1}/>
+        <img src={img1} alt="" />
         <h1>Klinik Medika</h1>
       </div>
     </header>
